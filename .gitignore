@@ -1,6 +1,7 @@
-.Rproj.user
+data/
 .Rhistory
-.Rdata
-.httr-oauth
+.RData
+.Rproj.user/
+outputs/
+*.rds
 .DS_Store
-.quarto
